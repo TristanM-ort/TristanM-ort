@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **tristan.momha@outlook.fr**
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="C:\Users\trisk\Downloads" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
 - ⚡ Hobbies **Hobbies : Football, anime/manga, video games**
