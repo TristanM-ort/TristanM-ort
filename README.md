@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm a passionate SISR student (BTS SIO)  from France. <br>Hobbies : Football, anime/manga, video games.
-# GIF
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&pause=1000&color=6B2191&width=435&lines=Tristan MOMHA%2C+Developer+%26+Future+Pentester)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
