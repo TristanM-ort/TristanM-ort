@@ -2,7 +2,10 @@
 <h3 align="center">I'm a SSIR student from France</h3>
 
 - 📫 How to reach me **tristan.momha@outlook.fr**
-
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
+</div>
 - ⚡ Hobbies **Hobbies : Football, anime/manga, video games**
 
 <h3 align="left">Connect with me:</h3>
