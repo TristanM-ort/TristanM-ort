@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **tristan.momha@outlook.fr**
 <div align="center">
-  <img src="C:\Users\trisk\Downloads" height="300"/>
+  <img src="https://beecut.com/wp-content/uploads/2019/08/mp4.gif" height="300"/>
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="300"/>
 </div>
 - ⚡ Hobbies **Hobbies : Football, anime/manga, video games**
